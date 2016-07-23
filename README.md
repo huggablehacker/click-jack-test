@@ -1,6 +1,4 @@
-## Huggable Hacker
-
-Click-Jack-Test
+## Click-Jack-Test
 
 * Change `http://www.target.site` in the "HTML" file to the site your testing.
 * Save the file as `.html` 
